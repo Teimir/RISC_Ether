@@ -5,4 +5,4 @@
 
 # English
 It is allowed to use and modify, provided that the authors are mentioned (Ether Studio or KB Ether, of your choice) and a branch with all modifications is created (the name is arbitrary).
-# To coordinate commercial use with @Letmeto (telegram), or to write messages to the vk group.
+# PLS coordinate commercial use with @Letmeto (telegram), or to write messages to the vk group.
